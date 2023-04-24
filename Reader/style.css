@@ -10,14 +10,52 @@ div.title{
     margin-bottom: 40px;
 }
 
-div.quote{
-    font-size: 30px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+div.authors{
+    font-size: 20px;
+    margin-left: 20px;
 }
 
-div.text{
+div.quote{
+    font-size: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+div.text1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 21px;
     margin-top: 40px;
+    margin-left: 200px;
+}
+
+div.text2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div.text5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-right: 200px;
+}
+
+div.text4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div.text3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-left: 200px;
 }
