@@ -1,0 +1,206 @@
+body{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-image: url(background\ image\ transperency\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+div.trigger {
+    display:inline-block;
+    padding:5px;
+    font-size:36px;
+    cursor:pointer;
+  }
+
+div.text {
+  font-size:36px;
+}
+
+div.welcome {
+  width:300px;
+  height:300px;
+  background-color: black;
+  color:white;
+  top: 50px;
+  position:fixed;
+  cursor: pointer;
+  opacity: 0;
+}
+
+div.welcome.show {
+  opacity: 1;
+}
+
+  div.row1{
+    display: flex;
+  }
+
+div.row{
+    display: flex;  
+    margin-right: 250px;
+    margin-left: 250px;   
+}
+
+div.row2{
+    display: flex;
+    margin-left: 250px;
+    margin-right: 250px;    
+}
+
+div.banner {
+    font-size:36px;
+    background-color: black;
+    color: orange;
+    margin-top: 150px;
+    margin-bottom:50px;
+  }
+
+div.col{
+    width: 100%;
+}
+
+
+div.width{
+    width: 50%;
+}
+
+div.width1{
+    width: 25%;
+}
+
+div.width2{
+    width: 100%;
+   
+}
+
+div.width2:hover {
+    animation:bounce 1.5s ;
+  }
+
+  @keyframes bounce {
+  
+    0% {
+      transform:translateY(40px);
+    }
+    
+    70% {
+      transform:translateY(0px);
+    }
+    
+    80% {
+      transform:translateY(10px);
+    }
+    
+    100% {
+      transform:translateY(0px);
+    }
+  
+  }
+
+div.row2{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div.width4{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+div.box1{
+    width: 60%;
+}
+
+div.box2{
+    width:27%;
+    margin-left: 50px;
+}
+
+div.box1:hover {
+    animation:bounce 1s ;
+  }
+
+  @keyframes bounce {
+  
+    0% {
+      transform:translateY(40px);
+    }
+    
+    70% {
+      transform:translateY(0px);
+    }
+    
+    80% {
+      transform:translateY(10px);
+    }
+    
+    100% {
+      transform:translateY(0px);
+    }
+  
+  }
+  
+
+div.width5{
+    width: 10%;
+    
+}
+
+div.width6{
+    width: 10%;
+}
+
+div.width7{
+    width: 20%;
+}
+
+div.width8{
+    width: 20%;
+}
+
+div.width9{
+    width: 20%;
+}
+
+div.width3{
+    width: 100%;
+}
+
+div.width3:hover {
+    animation:bounce 1.5s ;
+  }
+
+  @keyframes bounce {
+  
+    0% {
+      transform:translateY(40px);
+    }
+    
+    70% {
+      transform:translateY(0px);
+    }
+    
+    80% {
+      transform:translateY(10px);
+    }
+    
+    100% {
+      transform:translateY(0px);
+    }
+  
+  }
+
+
+
+
+
+
